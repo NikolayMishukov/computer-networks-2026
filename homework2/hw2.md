@@ -73,6 +73,6 @@ $T = T_{transfer} + T_{delay} = (\dfrac{X}{S} + 2) \dfrac{80 + S}{R} = \dfrac{2S
 
 Пусть $F = \dfrac{L}{R}$, тогда $I = aF, T_{delay} = F\dfrac{I}{1-I}, T_{transfer} = F$
 
-Значит $T = T_{delay} + T{transfer} = F (1 + \dfrac{I}{1-I}) = \dfrac{F}{1-I}$
+Значит $T = T_{delay} + T_{transfer} = F (1 + \dfrac{I}{1-I}) = \dfrac{F}{1-I}$
 
-Ответ: \dfrac{F}{1-aF}
+Ответ: $\dfrac{F}{1-aF}$
