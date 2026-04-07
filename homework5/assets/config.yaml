@@ -1,0 +1,7 @@
+smtp:
+  host: sandbox.smtp.mailtrap.io
+  port: 587
+  username: 15ed5aa6e28afe
+  password: dbf15ba805f92f
+user:
+  email: test@example.com
